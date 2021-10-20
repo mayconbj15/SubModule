@@ -1,0 +1,16 @@
+D:\Maycon\Documentos\codes\dotnet\SubModule\bin\Debug\net5.0\SubModule.exe
+D:\Maycon\Documentos\codes\dotnet\SubModule\bin\Debug\net5.0\SubModule.deps.json
+D:\Maycon\Documentos\codes\dotnet\SubModule\bin\Debug\net5.0\SubModule.runtimeconfig.json
+D:\Maycon\Documentos\codes\dotnet\SubModule\bin\Debug\net5.0\SubModule.runtimeconfig.dev.json
+D:\Maycon\Documentos\codes\dotnet\SubModule\bin\Debug\net5.0\SubModule.dll
+D:\Maycon\Documentos\codes\dotnet\SubModule\bin\Debug\net5.0\ref\SubModule.dll
+D:\Maycon\Documentos\codes\dotnet\SubModule\bin\Debug\net5.0\SubModule.pdb
+D:\Maycon\Documentos\codes\dotnet\SubModule\obj\Debug\net5.0\SubModule.csproj.AssemblyReference.cache
+D:\Maycon\Documentos\codes\dotnet\SubModule\obj\Debug\net5.0\SubModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maycon\Documentos\codes\dotnet\SubModule\obj\Debug\net5.0\SubModule.AssemblyInfoInputs.cache
+D:\Maycon\Documentos\codes\dotnet\SubModule\obj\Debug\net5.0\SubModule.AssemblyInfo.cs
+D:\Maycon\Documentos\codes\dotnet\SubModule\obj\Debug\net5.0\SubModule.csproj.CoreCompileInputs.cache
+D:\Maycon\Documentos\codes\dotnet\SubModule\obj\Debug\net5.0\SubModule.dll
+D:\Maycon\Documentos\codes\dotnet\SubModule\obj\Debug\net5.0\ref\SubModule.dll
+D:\Maycon\Documentos\codes\dotnet\SubModule\obj\Debug\net5.0\SubModule.pdb
+D:\Maycon\Documentos\codes\dotnet\SubModule\obj\Debug\net5.0\SubModule.genruntimeconfig.cache
