@@ -1,0 +1,3 @@
+[submodule "SubModuleTest"]
+	path = SubModuleTest
+	url = https://github.com/mayconbj15/SubModuleTest.git
